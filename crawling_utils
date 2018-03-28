@@ -1,0 +1,9 @@
+
+# Do you want to read from the current position? If so, set restart = False
+restart = False
+# Do you want to load from last checkpoint?
+checkpoint = 0
+# Want chatter?
+verbose = False
+# Set NA values manually
+na_values = ['#N/A', '#N/A N/A', '#NA', '-1.#IND', '-1.#QNAN', '-NaN', '-nan', '1.#IND', '1.#QNAN', 'N/A', 'NA', 'NULL', 'NaN', 'n/a', 'nan', 'null']
